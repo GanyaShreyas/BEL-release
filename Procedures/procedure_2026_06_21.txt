@@ -2,16 +2,22 @@ Files:
 invent_frontend
   /src
     App.js
+    ConfigurationManagement.jsx
     DashboardChoice.jsx
     OBDManagement.jsx
     SparesManagement.jsx
   /components
+    SectionNav.jsx
     sidebar.jsx
     sticker.jsx
+    styles.module.css
 inventory_management
   /myAPI
     urls.py
     views.py
+  /static/templates
+    Acknowledgement_Receipt_Master
+    Service_Master_Request_Form
 
 copy the above files from pendrive to system
 
